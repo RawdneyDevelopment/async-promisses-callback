@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/RawdneyDevelopment/async-promisses-callback/issues"
   },
-  "homepage": "https://github.com/RawdneyDevelopment/async-promisses-callback#readme"
+  "homepage": "https://github.com/RawdneyDevelopment/async-promisses-callback#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "request": "^2.88.2"
+  }
 }
