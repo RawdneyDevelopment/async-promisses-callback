@@ -1,0 +1,19 @@
+{
+  "name": "async-promisses-callback",
+  "version": "1.0.0",
+  "description": "estuding focusing node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RawdneyDevelopment/async-promisses-callback.git"
+  },
+  "author": "Rawdney Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RawdneyDevelopment/async-promisses-callback/issues"
+  },
+  "homepage": "https://github.com/RawdneyDevelopment/async-promisses-callback#readme"
+}
